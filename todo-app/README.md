@@ -211,5 +211,4 @@ await user.click(button);
 
 - [ ] Wszystkie istniejące testy przechodzą
 - [ ] Uzupełnione testy oznaczone jako `it.todo()`
-- [ ] Pokrycie kodu > 80%
 - [ ] Testy są czytelne i dobrze zorganizowane
